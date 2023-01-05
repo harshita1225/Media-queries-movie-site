@@ -2,7 +2,7 @@
 
 ## Link
 
-- Live Site URL: []()
+- Live Site URL: [https://harshita1225.github.io/Media-queries-movie-site/](https://harshita1225.github.io/Media-queries-movie-site/)
 
 ## Let's try to recreate this website
 
